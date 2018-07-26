@@ -1,3 +1,6 @@
+// +build !darwin
+// +build !windows
+
 package cachedir
 
 import (
